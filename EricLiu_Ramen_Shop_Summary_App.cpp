@@ -1,10 +1,3 @@
-/*
-Eric Liu
-FInal Project - Ramen Shop Summary App
-ICS4U - 03
-Dr.N
-*/
-
 #include <iostream>
 #include <exception>
 #include <stdexcept>
